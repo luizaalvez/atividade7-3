@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    background: linear-gradient(to right, rgb(82, 82, 250) 50%, rgb(236, 138, 138) 50%);
+}
+
+.fto {
+    height: 200px;
+    border-radius: 100%;
+}
+
+.flor {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 100px;
+}
+
+.luiza {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    right: 90%;
+}
+
+.cor {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px;
+}
